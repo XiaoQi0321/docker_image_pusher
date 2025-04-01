@@ -2,7 +2,6 @@ nginx
 mysql
 tomcat
 mysql
-oracleinanutshell/oracle-xe-11g
 elasticsearch
 kibana
 redis
