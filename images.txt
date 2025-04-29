@@ -1,8 +1,6 @@
 nginx
 mysql:5.7
 tomcat
-elasticsearch:7.17.28
-kibana
 redis
 rabbitmq
 wget
